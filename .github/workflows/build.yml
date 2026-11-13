@@ -20,7 +20,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y git zip unzip autoconf automake libtool pkg-config \
-            zlib1g-dev libncurses5-dev libffi-dev libssl-dev cmake build-essential
+            zlib1g-dev libncurses5-dev libffi-dev libssl-dev libltdl-dev cmake build-essential
       - name: Install buildozer
         run: pip install buildozer "cython<3" setuptools
       - name: Build APK
