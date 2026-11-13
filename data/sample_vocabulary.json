@@ -1,0 +1,252 @@
+[
+  {
+    "id": "buffalo",
+    "category": "Con vật",
+    "vietnamese": "con trâu",
+    "emoji": "🐃",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus twm"},
+      "Tày": {"word": "ke vài"}
+    }
+  },
+  {
+    "id": "cow",
+    "category": "Con vật",
+    "vietnamese": "con bò",
+    "emoji": "🐂",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus nyuj"},
+      "Tày": {"word": "ke mò"}
+    }
+  },
+  {
+    "id": "pig",
+    "category": "Con vật",
+    "vietnamese": "con heo (con lợn)",
+    "emoji": "🐖",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus npua"},
+      "Tày": {"word": "ke mừ"}
+    }
+  },
+  {
+    "id": "chicken",
+    "category": "Con vật",
+    "vietnamese": "con gà",
+    "emoji": "🐔",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus qaib"},
+      "Tày": {"word": "ke cáy"}
+    }
+  },
+  {
+    "id": "goat",
+    "category": "Con vật",
+    "vietnamese": "con dê",
+    "emoji": "🐐",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus tshis"},
+      "Tày": {"word": "ke bẻ"}
+    }
+  },
+  {
+    "id": "book",
+    "category": "Đồ dùng học tập",
+    "vietnamese": "cuốn sách",
+    "emoji": "📖",
+    "ethnic_data": {
+      "H'Mông": {"word": "phau ntawv"},
+      "Tày": {"word": "ăn slách"}
+    }
+  },
+  {
+    "id": "notebook",
+    "category": "Đồ dùng học tập",
+    "vietnamese": "cuốn vở",
+    "emoji": "📓",
+    "ethnic_data": {
+      "H'Mông": {"word": "phau ntawv"},
+      "Tày": {"word": "ăn slư"}
+    }
+  },
+  {
+    "id": "pen",
+    "category": "Đồ dùng học tập",
+    "vietnamese": "cây bút bi",
+    "emoji": "🖊️",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus cwj bi"},
+      "Tày": {"word": "ăn bút bi"}
+    }
+  },
+  {
+    "id": "pencil",
+    "category": "Đồ dùng học tập",
+    "vietnamese": "cây bút chì",
+    "emoji": "✏️",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus cwj chì"},
+      "Tày": {"word": "ăn bút chì"}
+    }
+  },
+  {
+    "id": "schoolbag",
+    "category": "Đồ dùng học tập",
+    "vietnamese": "cái cặp sách",
+    "emoji": "🎒",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub hnab ntawv"},
+      "Tày": {"word": "ăn cặp slách"}
+    }
+  },
+  {
+    "id": "ruler",
+    "category": "Đồ dùng học tập",
+    "vietnamese": "cây thước kẻ",
+    "emoji": "📏",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus kav"},
+      "Tày": {"word": "ăn thước kẻ"}
+    }
+  },
+  {
+    "id": "chalk",
+    "category": "Đồ dùng học tập",
+    "vietnamese": "viên phấn trắng",
+    "emoji": "🖍️",
+    "ethnic_data": {
+      "H'Mông": {"word": "tus cwj mem av dawb"},
+      "Tày": {"word": "khón phấn khào"}
+    }
+  },
+  {
+    "id": "eraser",
+    "category": "Đồ dùng học tập",
+    "vietnamese": "cục tẩy (cục gôm)",
+    "emoji": "🧽",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub lwv ntawv"},
+      "Tày": {"word": "ăn tẩy bút"}
+    }
+  },
+  {
+    "id": "table",
+    "category": "Đồ vật trong nhà",
+    "vietnamese": "cái bàn",
+    "emoji": "🪑",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub rooj"},
+      "Tày": {"word": "ăn bàn"}
+    }
+  },
+  {
+    "id": "chair",
+    "category": "Đồ vật trong nhà",
+    "vietnamese": "cái ghế",
+    "emoji": "🪑",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub rooj zaum"},
+      "Tày": {"word": "ăn ghế"}
+    }
+  },
+  {
+    "id": "bed",
+    "category": "Đồ vật trong nhà",
+    "vietnamese": "cái giường",
+    "emoji": "🛏️",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub txaj"},
+      "Tày": {"word": "ăn sàn"}
+    }
+  },
+  {
+    "id": "fridge",
+    "category": "Đồ vật trong nhà",
+    "vietnamese": "cái tủ lạnh",
+    "emoji": "🧊",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub tub yees"},
+      "Tày": {"word": "ăn tủ lạnh"}
+    }
+  },
+  {
+    "id": "pot",
+    "category": "Đồ vật trong nhà",
+    "vietnamese": "cái nồi",
+    "emoji": "🍲",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub lauj kaub"},
+      "Tày": {"word": "ăn mỏ"}
+    }
+  },
+  {
+    "id": "pan",
+    "category": "Đồ vật trong nhà",
+    "vietnamese": "cái chảo",
+    "emoji": "🍳",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub yias"},
+      "Tày": {"word": "ăn héc"}
+    }
+  },
+  {
+    "id": "small_bowl",
+    "category": "Đồ vật trong nhà",
+    "vietnamese": "cái chén (cái bát nhỏ)",
+    "emoji": "🍚",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub ntim me"},
+      "Tày": {"word": "ăn bát cái"}
+    }
+  },
+  {
+    "id": "big_bowl",
+    "category": "Đồ vật trong nhà",
+    "vietnamese": "cái tô (cái bát lớn)",
+    "emoji": "🥣",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub ntim loj"},
+      "Tày": {"word": "ăn bát iéc"}
+    }
+  },
+  {
+    "id": "phone",
+    "category": "Thiết bị điện tử",
+    "vietnamese": "cái điện thoại",
+    "emoji": "📱",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub xov tooj"},
+      "Tày": {"word": "ăn điện thoại"}
+    }
+  },
+  {
+    "id": "tv",
+    "category": "Thiết bị điện tử",
+    "vietnamese": "cái ti vi",
+    "emoji": "📺",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub thi viv"},
+      "Tày": {"word": "ăn ti vi"}
+    }
+  },
+  {
+    "id": "desktop",
+    "category": "Thiết bị điện tử",
+    "vietnamese": "cái máy tính bàn",
+    "emoji": "🖥️",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub khoos phib tawj"},
+      "Tày": {"word": "ăn máy tính bàn"}
+    }
+  },
+  {
+    "id": "laptop",
+    "category": "Thiết bị điện tử",
+    "vietnamese": "cái máy tính xách tay (laptop)",
+    "emoji": "💻",
+    "ethnic_data": {
+      "H'Mông": {"word": "lub khoos phib tawj xách tay"},
+      "Tày": {"word": "ăn máy tính căm mừ"}
+    }
+  }
+]
